@@ -1,2 +1,0 @@
-# Onlimy
-A Discord Bot!
