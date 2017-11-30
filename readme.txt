@@ -1,3 +1,6 @@
+Simple Discord bot base system.
+This uses discord.js.
+
 Before anything, open "config.json" and setup the bot with your token, prefix and owner id.
 Install "djs-collection-persistent", "discord.js" and "chalk".
 
